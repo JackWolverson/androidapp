@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">IGDBAPP</string>
+    <string name="search_bar">Enter a Game Name</string>
+    <string name="button_search">Search</string>
+</resources>
